@@ -1,0 +1,10 @@
+#banner
+{
+    font-family: 'Helvetica', 'Arial', sans-serif;
+    border-radius: 25px;
+    border: 2px solid black;
+    background: white;
+    padding: 20px;
+    width: 200px;
+    height: 100px;
+}
