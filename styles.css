@@ -1,10 +1,18 @@
-#banner
-{
+#banner {
     font-family: 'Helvetica', 'Arial', sans-serif;
     border-radius: 25px;
     border: 2px solid black;
     background: white;
     padding: 20px;
-    width: 200px;
+    width: 250px;
     height: 100px;
+    margin: 20px auto;
+    display: flex;
 }
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    padding-left: 50px;
+    padding-right: 50px;
+  }
